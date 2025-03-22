@@ -1,0 +1,7 @@
+/.vs/
+/x64/
+/WinAutoMute/x64/
+
+*.aps
+*.vcxproj.user
+
