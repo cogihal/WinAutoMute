@@ -5,7 +5,7 @@ This app mutes speaker(s) on Windows.
 
 ## Features
 
-Once this app is started, it runs as a resident program and shows an icon on the system tray.  
+Once this app is started, it runs as a resident program and shows an icon on the task tray.  
 It mutes and/or set volume to zero to the specified speaker(s) at the windows is shutting down.  
 Or you can mute and/or set volume to zero to the specified speaker(s) whenever you want.
 
